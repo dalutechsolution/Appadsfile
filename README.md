@@ -1,2 +1,1 @@
-# Appadsfile
-Hosting app-ads.txt for AdMob
+google.com, pub-5585449689637651, DIRECT, f08c47fec0942fa0
